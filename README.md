@@ -17,13 +17,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
-![Design preview for the Profile card component coding challenge](./design/mobile-preview.jpg)
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.png)
+![Design preview for the Profile card component coding challenge](./design/mobile-preview.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/0300hrs/Profile-card-component/)
+- Live Site URL: [Add live site URL here](https://0300hrs.github.io/Profile-card-component/)
 
 ### Built with
 
